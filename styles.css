@@ -1,0 +1,72 @@
+body {
+  background-color: rgba(232, 227, 227, 255);
+  margin: 0;
+}
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  background-color: rgba(232, 227, 227, 255);
+  border-bottom: 3rem rgb(28, 20, 20);
+  margin: 0px;
+  color: rgba(28, 143, 28, 255);
+}
+.navImage {
+  height: 3rem;
+  width: 6rem;
+}
+.selections {
+  display: flex;
+  justify-content: space-around;
+}
+.logo {
+  height: 2rem;
+  width: 5rem;
+}
+img {
+  height: 130px;
+  width: 200px;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgba(51, 51, 51, 255);
+  width: 200px;
+  color: rgba(28, 143, 28, 255);
+}
+button {
+  padding: 8px;
+  margin: 20px;
+  background-color: rgba(28, 143, 28, 255);
+  border: none;
+  color: white;
+}
+.about {
+  display: flex;
+  margin-top: 80px;
+  height: 300px;
+  margin-bottom: 40px;
+}
+.aboutImage {
+  height: 300px;
+  width: 300px;
+}
+.info {
+  background-color: rgba(51, 51, 51, 255);
+  width: 700px;
+  text-align: center;
+}
+
+h4 {
+  margin-top: 120px;
+  color: white;
+  font-size: xx-large;
+}
+.infoButton {
+  padding: 15px 50px;
+}
+.footer {
+  text-align: center;
+  color: rgba(28, 143, 28, 255);
+}
